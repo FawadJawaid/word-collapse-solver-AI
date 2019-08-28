@@ -1,0 +1,18 @@
+  g   
+  r   
+  a   
+ lpime
+leemon
+banana
+
+
+Dictionary:
+banana
+apple
+lemon
+pear
+guava
+grape
+lime
+orange
+apricot
